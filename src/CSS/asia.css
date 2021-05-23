@@ -1,0 +1,58 @@
+*{
+  background-color: dimgray
+}
+.header-text{
+  text-align: center;
+  padding-bottom: 5px;
+  border-bottom: 2px lightgray solid;
+  width: 20%;
+  margin:auto;
+}
+.map{
+  float: right;
+  margin :auto;
+}
+svg {
+  background-image: url('../img/asia.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  max-width: 90%;
+  height: 1%;
+}
+path {
+  fill: transparent;
+  cursor: pointer;
+  transition: fill 0.2s
+}
+svg a:focus,
+svg a:hover {
+  outline: none;
+}
+svg a:focus path,
+svg a:hover path {
+  fill: rgba(30,222,121, 0.25);
+  cursor: pointer;
+}
+.description{
+  float: left;
+  padding: 10px;
+  width: 25%;
+  margin: 2em;
+}
+.description h2{
+  margin-bottom: 0px;
+  margin-top: .1em
+}
+.back{
+  width: 30%;
+}
+.back img{
+  width: 15%;
+  margin: 3em;
+}
+.back img:hover{
+  opacity: 50%
+}
+a:hover{
+  opacity: 70%
+}
