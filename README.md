@@ -13,3 +13,5 @@ A simple opensource world map, written with CSS / HTML is perfect for low intern
       - Yazd
       - Razavi Khorasan
       - Isfahan
+  - Oceania (Not Complete)
+    - Australia
