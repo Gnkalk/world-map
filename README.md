@@ -15,3 +15,6 @@ A simple opensource world map, written with CSS / HTML is perfect for low intern
       - Isfahan
   - Oceania (Not Complete)
     - Australia
+      - Victoria
+      - Northern Territory
+      - South Australia
